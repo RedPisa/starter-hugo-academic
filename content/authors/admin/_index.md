@@ -72,4 +72,4 @@ Hi there! This is Yunpeng Zhao (赵云鹏 in Chinese). I got my bachelor's degre
 
 During my undergraduate, I worked with [Prof. Bo Liu](http://www.sa.buaa.edu.cn/info/1014/4787.htm) on machine learning for medical image analysis and graph neural networks. My research interests lie in Medical Image Analysis, AI for Health and Computer Vision currently and I am open to explore other topics.
 
-{{< icon name="download" pack="fas" >}} Welcome to check my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}} for more details.
+{{< icon name="download" pack="fas" >}} Welcome to check my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} for more details.
