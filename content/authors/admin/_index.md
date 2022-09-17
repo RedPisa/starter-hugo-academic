@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yunpeng Zhao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Bachelor of Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
