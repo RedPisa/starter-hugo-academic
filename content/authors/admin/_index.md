@@ -14,7 +14,7 @@ organizations:
     url: https://www.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests currently include medical image analysis, AI for Health and computer vision, and I am open to explore other topics. <font color="red">I am looking for an available Ph.D., M.Phil, or RA position!</font>
 
 # Interests to show in About widget
 interests:
