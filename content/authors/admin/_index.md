@@ -14,13 +14,13 @@ organizations:
     url: https://www.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests currently include medical image analysis, AI for Health and computer vision, and I am open to explore other topics. <font color="red">I am looking for an available Ph.D., self-funded Master, or RA position!</font>
+bio: My research interests currently include machine learning, medical image analysis and computer vision. I am open to explore other topics. <font color="red">I am looking for an available Ph.D., self-funded Master, or RA position!</font>
 
 # Interests to show in About widget
 interests:
   - Medical Image Analysis
-  - Graph Machine Learning
-  - AI for Health
+  - Machine Learning
+  - Graph Neural Networks
   - Computer Vision
 
 # Education to show in About widget
@@ -70,6 +70,6 @@ highlight_name: true
 
 Hi there! This is Yunpeng Zhao (赵云鹏 in Chinese). I got my bachelor's degree in Aircraft Control and Information Engineering at Beihang University (BUAA) this June and going to take a gap year to deepen my research. I have decided to pursue further studies at the doctorate level upon successful completion of my undergraduate studies, and <font color="red">I am looking for an available Ph.D., self-funded Master, or RA position!</font>
 
-During my undergraduate study, I worked with [Prof. Bo Liu](http://www.sa.buaa.edu.cn/info/1014/4787.htm) on machine learning for medical image analysis and graph neural networks. My research interests lie in Medical Image Analysis, AI for Health and Computer Vision currently and I am open to explore other topics.
+During my undergraduate study, I worked with [Prof. Bo Liu](http://www.sa.buaa.edu.cn/info/1014/4787.htm) on machine learning for medical image analysis and graph neural networks. My research interests lie in Medical Image Analysis, Machine Learning and Computer Vision currently and I am open to explore other topics.
 
 {{< icon name="download" pack="fas" >}} Welcome to check my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} for more details.
